@@ -1,0 +1,22 @@
+[2022-07-28 11:17:15.617] [GIT  ] [/home/mark_shkuro/frontend-project-lvl1] git log --format=%x3cr%x3e%x20%H -n3 -m -L 11,11:src/cli.js • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 11,11:src/cli.js • file src/cli.js has only 9 lines • 21 ms
+
+[2022-07-28 11:17:20.363] [GIT  ] [/home/mark_shkuro/frontend-project-lvl1] git log --format=%x3cr%x3e%x20%H -n3 -m -L 11,11:src/cli.js • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 11,11:src/cli.js • file src/cli.js has only 9 lines • 16 ms
+
+[2022-07-28 11:17:20.393] [GIT  ] [/home/mark_shkuro/frontend-project-lvl1] git log --format=%x3cr%x3e%x20%H -n4 -m -L 11,11:src/cli.js • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n4 -m -L 11,11:src/cli.js • file src/cli.js has only 9 lines • 8 ms
+
+[2022-07-28 11:17:26.209] [GIT  ] [/home/mark_shkuro/frontend-project-lvl1] git log --format=%x3cr%x3e%x20%H -n3 -m -L 11,11:src/cli.js • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 11,11:src/cli.js • file src/cli.js has only 9 lines • 7 ms
+
+[2022-07-28 11:17:26.234] [GIT  ] [/home/mark_shkuro/frontend-project-lvl1] git log --format=%x3cr%x3e%x20%H -n4 -m -L 11,11:src/cli.js • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n4 -m -L 11,11:src/cli.js • file src/cli.js has only 9 lines • 6 ms
+
+[2022-07-28 11:17:28.436] [GIT  ] [/home/mark_shkuro/frontend-project-lvl1] git log --format=%x3cr%x3e%x20%H -n3 -m -L 11,11:src/cli.js • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 11,11:src/cli.js • file src/cli.js has only 9 lines • 9 ms
+
+[2022-07-28 11:17:28.457] [GIT  ] [/home/mark_shkuro/frontend-project-lvl1] git log --format=%x3cr%x3e%x20%H -n4 -m -L 11,11:src/cli.js • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n4 -m -L 11,11:src/cli.js • file src/cli.js has only 9 lines • 6 ms
+
+[2022-07-28 11:17:40.075] [GIT  ] [/home/mark_shkuro/frontend-project-lvl1] git log --format=%x3cr%x3e%x20%H -n3 -m -L 10,10:src/cli.js • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 10,10:src/cli.js • file src/cli.js has only 9 lines • 6 ms
+
+[2022-07-28 11:17:47.891] [GIT  ] [/home/mark_shkuro/frontend-project-lvl1] git log --format=%x3cr%x3e%x20%H -n3 -m -L 10,10:src/cli.js • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 10,10:src/cli.js • file src/cli.js has only 9 lines • 10 ms
+
+[2022-07-28 11:18:00.506] [GIT  ] [/home/mark_shkuro/frontend-project-lvl1] git log --format=%x3cr%x3e%x20%H -n3 -m -L 10,10:src/cli.js • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 10,10:src/cli.js • file src/cli.js has only 9 lines • 6 ms
+
+[2022-07-28 11:18:03.746] [GIT  ] [/home/mark_shkuro/frontend-project-lvl1] git log --format=%x3cr%x3e%x20%H -n3 -m -L 10,10:src/cli.js • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false log --format=%x3cr%x3e%x20%H -n3 -m -L 10,10:src/cli.js • file src/cli.js has only 9 lines • 5 ms
+

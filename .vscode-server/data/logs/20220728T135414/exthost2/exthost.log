@@ -1,0 +1,25 @@
+[2022-07-28 13:54:59.586] [exthost] [info] Extension host with pid 6513 started
+[2022-07-28 13:54:59.609] [exthost] [info] Lock '/home/mark_shkuro/.vscode-server/data/User/workspaceStorage/e39d4360ca81c9ddfcc9a3cddc1fc79c/vscode.lock': Lock acquired.
+[2022-07-28 13:54:59.664] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-28 13:54:59.675] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-07-28 13:54:59.684] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-28 13:54:59.719] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-07-28 13:55:00.018] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-28 13:55:00.034] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-28 13:55:00.038] [exthost] [info] Eager extensions activated
+[2022-07-28 13:55:06.951] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-28 13:55:06.958] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-28 13:55:06.975] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-07-28 13:55:07.289] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-07-28 13:55:21.207] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-07-28 14:11:21.350] [exthost] [info] ExtensionService#_doActivateExtension slevesque.vscode-multiclip, startup: false, activationEvent: '*'
+[2022-07-28 14:11:22.542] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-28 14:11:22.748] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify, startup: false, activationEvent: '*'
+[2022-07-28 14:11:24.409] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-28 14:11:30.668] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-28 14:13:33.531] [exthost] [info] ExtensionService#_doActivateExtension ionutvmi.path-autocomplete, startup: false, activationEvent: '*'
+[2022-07-28 14:13:33.793] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-28 14:13:34.256] [exthost] [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: false, activationEvent: '*'
+[2022-07-28 14:16:46.554] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-28 14:16:46.556] [exthost] [info] Lock '/home/mark_shkuro/.vscode-server/data/User/workspaceStorage/e39d4360ca81c9ddfcc9a3cddc1fc79c/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-07-28 14:16:46.627] [exthost] [info] Extension host with pid 6513 exiting with code 0

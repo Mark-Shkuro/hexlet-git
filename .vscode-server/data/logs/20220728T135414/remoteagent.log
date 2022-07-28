@@ -1,0 +1,151 @@
+[2022-07-28 13:54:14.294] [remoteagent] [info] Extension host agent started.
+[2022-07-28 13:54:14.824] [remoteagent] [info] [127.0.0.1][bbfeb925][ManagementConnection] New connection established.
+[2022-07-28 13:54:15.794] [remoteagent] [info] [127.0.0.1][6e2acc2f][ExtensionHostConnection] New connection established.
+[2022-07-28 13:54:15.808] [remoteagent] [info] [127.0.0.1][6e2acc2f][ExtensionHostConnection] <6451> Launched Extension Host Process.
+[2022-07-28 13:54:56.302] [remoteagent] [info] [127.0.0.1][bbfeb925][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-07-28 13:54:56.305] [remoteagent] [info] [127.0.0.1][6e2acc2f][ExtensionHostConnection] <6451> Extension Host Process exited with code: 0, signal: null.
+[2022-07-28 13:54:58.353] [remoteagent] [info] [127.0.0.1][05b3a518][ManagementConnection] New connection established.
+[2022-07-28 13:54:59.135] [remoteagent] [info] [127.0.0.1][63883c49][ExtensionHostConnection] New connection established.
+[2022-07-28 13:54:59.142] [remoteagent] [info] [127.0.0.1][63883c49][ExtensionHostConnection] <6513> Launched Extension Host Process.
+[2022-07-28 14:11:17.951] [remoteagent] [info] Getting Manifest... formulahendry.auto-complete-tag
+[2022-07-28 14:11:17.952] [remoteagent] [info] Getting Manifest... formulahendry.auto-close-tag
+[2022-07-28 14:11:17.952] [remoteagent] [info] Getting Manifest... kisstkondoros.vscode-gutter-preview
+[2022-07-28 14:11:17.952] [remoteagent] [info] Getting Manifest... ritwickdey.liveserver
+[2022-07-28 14:11:17.952] [remoteagent] [info] Getting Manifest... hookyqr.beautify
+[2022-07-28 14:11:17.952] [remoteagent] [info] Getting Manifest... eg2.vscode-npm-script
+[2022-07-28 14:11:17.953] [remoteagent] [info] Getting Manifest... mrcrowl.easy-less
+[2022-07-28 14:11:17.953] [remoteagent] [info] Getting Manifest... dbaeumer.vscode-eslint
+[2022-07-28 14:11:17.953] [remoteagent] [info] Getting Manifest... wscats.eno
+[2022-07-28 14:11:17.953] [remoteagent] [info] Getting Manifest... formulahendry.code-runner
+[2022-07-28 14:11:17.953] [remoteagent] [info] Getting Manifest... formulahendry.auto-rename-tag
+[2022-07-28 14:11:17.953] [remoteagent] [info] Getting Manifest... xabikos.javascriptsnippets
+[2022-07-28 14:11:17.953] [remoteagent] [info] Getting Manifest... vscode-icons-team.vscode-icons
+[2022-07-28 14:11:17.953] [remoteagent] [info] Getting Manifest... wix.vscode-import-cost
+[2022-07-28 14:11:17.953] [remoteagent] [info] Getting Manifest... eamodio.gitlens
+[2022-07-28 14:11:17.954] [remoteagent] [info] Getting Manifest... naumovs.theme-oceanicnext
+[2022-07-28 14:11:17.954] [remoteagent] [info] Getting Manifest... xabikos.reactsnippets
+[2022-07-28 14:11:17.954] [remoteagent] [info] Getting Manifest... slevesque.vscode-multiclip
+[2022-07-28 14:11:17.954] [remoteagent] [info] Getting Manifest... ionutvmi.path-autocomplete
+[2022-07-28 14:11:18.358] [remoteagent] [info] Installing extension: formulahendry.auto-close-tag
+[2022-07-28 14:11:18.379] [remoteagent] [info] Installing extension: formulahendry.auto-complete-tag
+[2022-07-28 14:11:18.456] [remoteagent] [info] Installing extension: ritwickdey.liveserver
+[2022-07-28 14:11:18.524] [remoteagent] [info] Installing extension: eg2.vscode-npm-script
+[2022-07-28 14:11:18.525] [remoteagent] [info] Installing extension: hookyqr.beautify
+[2022-07-28 14:11:18.649] [remoteagent] [info] Installing extension: formulahendry.code-runner
+[2022-07-28 14:11:18.652] [remoteagent] [info] Installing extension: formulahendry.auto-rename-tag
+[2022-07-28 14:11:18.709] [remoteagent] [info] Installing extension: vscode-icons-team.vscode-icons
+[2022-07-28 14:11:18.741] [remoteagent] [info] Installing extension: xabikos.javascriptsnippets
+[2022-07-28 14:11:18.896] [remoteagent] [info] Installing extension: xabikos.reactsnippets
+[2022-07-28 14:11:18.992] [remoteagent] [info] Installing extension: slevesque.vscode-multiclip
+[2022-07-28 14:11:19.128] [remoteagent] [info] Installing extension: eamodio.gitlens
+[2022-07-28 14:11:19.221] [remoteagent] [info] Getting Manifest... formulahendry.auto-rename-tag
+[2022-07-28 14:11:19.543] [remoteagent] [info] Getting Manifest... formulahendry.auto-close-tag
+[2022-07-28 14:11:19.895] [remoteagent] [info] Extension is already requested to install formulahendry.auto-rename-tag
+[2022-07-28 14:11:19.895] [remoteagent] [info] Extension is already requested to install formulahendry.auto-close-tag
+[2022-07-28 14:11:20.318] [remoteagent] [info] Downloaded extension: eg2.vscode-npm-script /home/mark_shkuro/.vscode-server/data/CachedExtensionVSIXs/eg2.vscode-npm-script-0.3.28
+[2022-07-28 14:11:20.398] [remoteagent] [info] Downloaded extension: formulahendry.auto-close-tag /home/mark_shkuro/.vscode-server/data/CachedExtensionVSIXs/formulahendry.auto-close-tag-0.5.14
+[2022-07-28 14:11:20.453] [remoteagent] [info] Extracted extension to /home/mark_shkuro/.vscode-server/extensions/.855dd1a6-2d61-49b5-9594-37a48c7eca84: eg2.vscode-npm-script
+[2022-07-28 14:11:20.463] [remoteagent] [info] Renamed to /home/mark_shkuro/.vscode-server/extensions/eg2.vscode-npm-script-0.3.28
+[2022-07-28 14:11:20.466] [remoteagent] [info] Extracting completed. eg2.vscode-npm-script
+[2022-07-28 14:11:20.466] [remoteagent] [info] Extension installed successfully: eg2.vscode-npm-script
+[2022-07-28 14:11:20.487] [remoteagent] [info] Extracted extension to /home/mark_shkuro/.vscode-server/extensions/.9da5f562-1baa-4ff1-82dc-1e13a2dc7fc6: formulahendry.auto-close-tag
+[2022-07-28 14:11:20.497] [remoteagent] [info] Renamed to /home/mark_shkuro/.vscode-server/extensions/formulahendry.auto-close-tag-0.5.14
+[2022-07-28 14:11:20.500] [remoteagent] [info] Extracting completed. formulahendry.auto-close-tag
+[2022-07-28 14:11:20.500] [remoteagent] [info] Extension installed successfully: formulahendry.auto-close-tag
+[2022-07-28 14:11:20.697] [remoteagent] [info] Downloaded extension: hookyqr.beautify /home/mark_shkuro/.vscode-server/data/CachedExtensionVSIXs/hookyqr.beautify-1.5.0
+[2022-07-28 14:11:20.944] [remoteagent] [info] Downloaded extension: formulahendry.code-runner /home/mark_shkuro/.vscode-server/data/CachedExtensionVSIXs/formulahendry.code-runner-0.11.8
+[2022-07-28 14:11:20.965] [remoteagent] [info] Downloaded extension: slevesque.vscode-multiclip /home/mark_shkuro/.vscode-server/data/CachedExtensionVSIXs/slevesque.vscode-multiclip-0.1.5
+[2022-07-28 14:11:20.979] [remoteagent] [info] Downloaded extension: xabikos.javascriptsnippets /home/mark_shkuro/.vscode-server/data/CachedExtensionVSIXs/xabikos.javascriptsnippets-1.8.0
+[2022-07-28 14:11:21.029] [remoteagent] [info] Extracted extension to /home/mark_shkuro/.vscode-server/extensions/.da78c4a1-4f40-47ac-826e-c8bda39e5259: xabikos.javascriptsnippets
+[2022-07-28 14:11:21.030] [remoteagent] [info] Extracted extension to /home/mark_shkuro/.vscode-server/extensions/.7389a1a0-4fd4-42a5-8c22-5a3d2d4fece9: slevesque.vscode-multiclip
+[2022-07-28 14:11:21.037] [remoteagent] [info] Renamed to /home/mark_shkuro/.vscode-server/extensions/xabikos.javascriptsnippets-1.8.0
+[2022-07-28 14:11:21.042] [remoteagent] [info] Renamed to /home/mark_shkuro/.vscode-server/extensions/slevesque.vscode-multiclip-0.1.5
+[2022-07-28 14:11:21.047] [remoteagent] [info] Extracting completed. xabikos.javascriptsnippets
+[2022-07-28 14:11:21.047] [remoteagent] [info] Extension installed successfully: xabikos.javascriptsnippets
+[2022-07-28 14:11:21.049] [remoteagent] [info] Extracting completed. slevesque.vscode-multiclip
+[2022-07-28 14:11:21.049] [remoteagent] [info] Extension installed successfully: slevesque.vscode-multiclip
+[2022-07-28 14:11:21.175] [remoteagent] [info] Downloaded extension: formulahendry.auto-rename-tag /home/mark_shkuro/.vscode-server/data/CachedExtensionVSIXs/formulahendry.auto-rename-tag-0.1.10
+[2022-07-28 14:11:21.303] [remoteagent] [info] Downloaded extension: formulahendry.auto-complete-tag /home/mark_shkuro/.vscode-server/data/CachedExtensionVSIXs/formulahendry.auto-complete-tag-0.1.0
+[2022-07-28 14:11:21.381] [remoteagent] [info] Extracted extension to /home/mark_shkuro/.vscode-server/extensions/.d85a41c2-f3bb-492a-bdb6-42d282db3313: formulahendry.auto-complete-tag
+[2022-07-28 14:11:21.390] [remoteagent] [info] Renamed to /home/mark_shkuro/.vscode-server/extensions/formulahendry.auto-complete-tag-0.1.0
+[2022-07-28 14:11:21.402] [remoteagent] [info] Extracting completed. formulahendry.auto-complete-tag
+[2022-07-28 14:11:21.403] [remoteagent] [info] Extension installed successfully: formulahendry.auto-complete-tag
+[2022-07-28 14:11:21.486] [remoteagent] [info] Downloaded extension: ritwickdey.liveserver /home/mark_shkuro/.vscode-server/data/CachedExtensionVSIXs/ritwickdey.liveserver-5.7.5
+[2022-07-28 14:11:21.728] [remoteagent] [info] Extracted extension to /home/mark_shkuro/.vscode-server/extensions/.ae37acc4-1693-4a3c-8fdb-d4c73cc93904: formulahendry.auto-rename-tag
+[2022-07-28 14:11:21.740] [remoteagent] [info] Renamed to /home/mark_shkuro/.vscode-server/extensions/formulahendry.auto-rename-tag-0.1.10
+[2022-07-28 14:11:21.755] [remoteagent] [info] Extracting completed. formulahendry.auto-rename-tag
+[2022-07-28 14:11:21.756] [remoteagent] [info] Extension installed successfully: formulahendry.auto-rename-tag
+[2022-07-28 14:11:22.092] [remoteagent] [info] Downloaded extension: xabikos.reactsnippets /home/mark_shkuro/.vscode-server/data/CachedExtensionVSIXs/xabikos.reactsnippets-2.4.0
+[2022-07-28 14:11:22.189] [remoteagent] [info] Extracted extension to /home/mark_shkuro/.vscode-server/extensions/.8bb68623-d8ea-48a5-8aa6-6f8203889a97: xabikos.reactsnippets
+[2022-07-28 14:11:22.196] [remoteagent] [info] Renamed to /home/mark_shkuro/.vscode-server/extensions/xabikos.reactsnippets-2.4.0
+[2022-07-28 14:11:22.200] [remoteagent] [info] Extracting completed. xabikos.reactsnippets
+[2022-07-28 14:11:22.200] [remoteagent] [info] Extension installed successfully: xabikos.reactsnippets
+[2022-07-28 14:11:22.261] [remoteagent] [info] Extracted extension to /home/mark_shkuro/.vscode-server/extensions/.c40c55de-0cf9-4263-a187-b0adddcf7ac2: formulahendry.code-runner
+[2022-07-28 14:11:22.266] [remoteagent] [info] Renamed to /home/mark_shkuro/.vscode-server/extensions/formulahendry.code-runner-0.11.8
+[2022-07-28 14:11:22.271] [remoteagent] [info] Extracting completed. formulahendry.code-runner
+[2022-07-28 14:11:22.271] [remoteagent] [info] Extension installed successfully: formulahendry.code-runner
+[2022-07-28 14:11:22.278] [remoteagent] [info] Extracted extension to /home/mark_shkuro/.vscode-server/extensions/.1c63bb70-9252-47b1-acc3-b67392391f60: hookyqr.beautify
+[2022-07-28 14:11:22.285] [remoteagent] [info] Renamed to /home/mark_shkuro/.vscode-server/extensions/hookyqr.beautify-1.5.0
+[2022-07-28 14:11:22.290] [remoteagent] [info] Extracting completed. hookyqr.beautify
+[2022-07-28 14:11:22.291] [remoteagent] [info] Extension installed successfully: hookyqr.beautify
+[2022-07-28 14:11:23.851] [remoteagent] [info] Downloaded extension: vscode-icons-team.vscode-icons /home/mark_shkuro/.vscode-server/data/CachedExtensionVSIXs/vscode-icons-team.vscode-icons-11.13.0
+[2022-07-28 14:11:24.184] [remoteagent] [info] Extracted extension to /home/mark_shkuro/.vscode-server/extensions/.a89b2d43-bd4a-4a7e-a6b2-07ec20cace92: ritwickdey.liveserver
+[2022-07-28 14:11:24.189] [remoteagent] [info] Renamed to /home/mark_shkuro/.vscode-server/extensions/ritwickdey.liveserver-5.7.5
+[2022-07-28 14:11:24.196] [remoteagent] [info] Extracting completed. ritwickdey.liveserver
+[2022-07-28 14:11:24.197] [remoteagent] [info] Extension installed successfully: ritwickdey.liveserver
+[2022-07-28 14:11:25.698] [remoteagent] [info] Extracted extension to /home/mark_shkuro/.vscode-server/extensions/.24912b5a-3e1a-4190-8f2d-ef4b3310c0ea: vscode-icons-team.vscode-icons
+[2022-07-28 14:11:25.703] [remoteagent] [info] Renamed to /home/mark_shkuro/.vscode-server/extensions/vscode-icons-team.vscode-icons-11.13.0
+[2022-07-28 14:11:25.706] [remoteagent] [info] Extracting completed. vscode-icons-team.vscode-icons
+[2022-07-28 14:11:25.707] [remoteagent] [info] Extension installed successfully: vscode-icons-team.vscode-icons
+[2022-07-28 14:11:27.409] [remoteagent] [info] Downloaded extension: eamodio.gitlens /home/mark_shkuro/.vscode-server/data/CachedExtensionVSIXs/eamodio.gitlens-12.1.2
+[2022-07-28 14:11:28.303] [remoteagent] [info] Extracted extension to /home/mark_shkuro/.vscode-server/extensions/.9794a4de-4c87-4fb9-b0ae-9c95f6cdf479: eamodio.gitlens
+[2022-07-28 14:11:28.319] [remoteagent] [info] Renamed to /home/mark_shkuro/.vscode-server/extensions/eamodio.gitlens-12.1.2
+[2022-07-28 14:11:28.328] [remoteagent] [info] Extracting completed. eamodio.gitlens
+[2022-07-28 14:11:28.330] [remoteagent] [info] Extension installed successfully: eamodio.gitlens
+[2022-07-28 14:13:31.603] [remoteagent] [info] Installing extension: wix.vscode-import-cost
+[2022-07-28 14:13:31.632] [remoteagent] [info] Installing extension: ionutvmi.path-autocomplete
+[2022-07-28 14:13:31.634] [remoteagent] [info] Installing extension: naumovs.theme-oceanicnext
+[2022-07-28 14:13:31.821] [remoteagent] [info] Installing extension: wscats.eno
+[2022-07-28 14:13:32.011] [remoteagent] [info] Installing extension: kisstkondoros.vscode-gutter-preview
+[2022-07-28 14:13:32.218] [remoteagent] [info] Installing extension: dbaeumer.vscode-eslint
+[2022-07-28 14:13:33.001] [remoteagent] [info] Downloaded extension: naumovs.theme-oceanicnext /home/mark_shkuro/.vscode-server/data/CachedExtensionVSIXs/naumovs.theme-oceanicnext-0.0.4
+[2022-07-28 14:13:33.024] [remoteagent] [info] Extracted extension to /home/mark_shkuro/.vscode-server/extensions/.3fa0b402-6695-431e-a1e9-192a1966d9bc: naumovs.theme-oceanicnext
+[2022-07-28 14:13:33.031] [remoteagent] [info] Renamed to /home/mark_shkuro/.vscode-server/extensions/naumovs.theme-oceanicnext-0.0.4
+[2022-07-28 14:13:33.033] [remoteagent] [info] Extracting completed. naumovs.theme-oceanicnext
+[2022-07-28 14:13:33.033] [remoteagent] [info] Extension installed successfully: naumovs.theme-oceanicnext
+[2022-07-28 14:13:33.050] [remoteagent] [info] Downloaded extension: ionutvmi.path-autocomplete /home/mark_shkuro/.vscode-server/data/CachedExtensionVSIXs/ionutvmi.path-autocomplete-1.19.1
+[2022-07-28 14:13:33.124] [remoteagent] [info] Extracted extension to /home/mark_shkuro/.vscode-server/extensions/.6e06fa30-eb9f-4782-989f-3201ab6aafcf: ionutvmi.path-autocomplete
+[2022-07-28 14:13:33.132] [remoteagent] [info] Renamed to /home/mark_shkuro/.vscode-server/extensions/ionutvmi.path-autocomplete-1.19.1
+[2022-07-28 14:13:33.134] [remoteagent] [info] Extracting completed. ionutvmi.path-autocomplete
+[2022-07-28 14:13:33.135] [remoteagent] [info] Extension installed successfully: ionutvmi.path-autocomplete
+[2022-07-28 14:13:33.325] [remoteagent] [info] Downloaded extension: dbaeumer.vscode-eslint /home/mark_shkuro/.vscode-server/data/CachedExtensionVSIXs/dbaeumer.vscode-eslint-2.2.6
+[2022-07-28 14:13:33.463] [remoteagent] [info] Extracted extension to /home/mark_shkuro/.vscode-server/extensions/.518e036b-b30d-458c-a82d-c628942a9a54: dbaeumer.vscode-eslint
+[2022-07-28 14:13:33.467] [remoteagent] [info] Renamed to /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6
+[2022-07-28 14:13:33.470] [remoteagent] [info] Extracting completed. dbaeumer.vscode-eslint
+[2022-07-28 14:13:33.471] [remoteagent] [info] Extension installed successfully: dbaeumer.vscode-eslint
+[2022-07-28 14:13:33.870] [remoteagent] [info] Downloaded extension: kisstkondoros.vscode-gutter-preview /home/mark_shkuro/.vscode-server/data/CachedExtensionVSIXs/kisstkondoros.vscode-gutter-preview-0.30.0
+[2022-07-28 14:13:33.936] [remoteagent] [info] Extracted extension to /home/mark_shkuro/.vscode-server/extensions/.fca7b27b-6a50-4dbd-b7c7-0dbb13257a06: kisstkondoros.vscode-gutter-preview
+[2022-07-28 14:13:33.945] [remoteagent] [info] Renamed to /home/mark_shkuro/.vscode-server/extensions/kisstkondoros.vscode-gutter-preview-0.30.0
+[2022-07-28 14:13:33.949] [remoteagent] [info] Extracting completed. kisstkondoros.vscode-gutter-preview
+[2022-07-28 14:13:33.949] [remoteagent] [info] Extension installed successfully: kisstkondoros.vscode-gutter-preview
+[2022-07-28 14:13:45.263] [remoteagent] [info] Downloaded extension: wix.vscode-import-cost /home/mark_shkuro/.vscode-server/data/CachedExtensionVSIXs/wix.vscode-import-cost-3.3.0
+[2022-07-28 14:13:46.007] [remoteagent] [info] Extracted extension to /home/mark_shkuro/.vscode-server/extensions/.c44a2195-a5e8-4087-b0c4-62af9d6b6e00: wix.vscode-import-cost
+[2022-07-28 14:13:46.015] [remoteagent] [info] Renamed to /home/mark_shkuro/.vscode-server/extensions/wix.vscode-import-cost-3.3.0
+[2022-07-28 14:13:46.017] [remoteagent] [info] Extracting completed. wix.vscode-import-cost
+[2022-07-28 14:13:46.018] [remoteagent] [info] Extension installed successfully: wix.vscode-import-cost
+[2022-07-28 14:13:56.973] [remoteagent] [info] Downloaded extension: wscats.eno /home/mark_shkuro/.vscode-server/data/CachedExtensionVSIXs/wscats.eno-2.3.53
+[2022-07-28 14:14:05.353] [remoteagent] [info] Extracted extension to /home/mark_shkuro/.vscode-server/extensions/.2fc1af39-2b47-4c4d-9a0e-ba2db356a0ac: wscats.eno
+[2022-07-28 14:14:05.363] [remoteagent] [info] Renamed to /home/mark_shkuro/.vscode-server/extensions/wscats.eno-2.3.53
+[2022-07-28 14:14:05.365] [remoteagent] [info] Extracting completed. wscats.eno
+[2022-07-28 14:14:05.366] [remoteagent] [info] Extension installed successfully: wscats.eno
+[2022-07-28 14:15:43.966] [remoteagent] [error] Failed to install extension. mrcrowl.easy-less
+[2022-07-28 14:15:43.976] [remoteagent] [error] Error: connect ETIMEDOUT 192.5.6.30:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1161:16)
+[2022-07-28 14:15:46.020] [remoteagent] [info] Installing extension: mrcrowl.easy-less
+[2022-07-28 14:15:46.020] [remoteagent] [info] Installing the extension without checking dependencies and pack mrcrowl.easy-less
+[2022-07-28 14:15:47.360] [remoteagent] [info] Extracted extension to /home/mark_shkuro/.vscode-server/extensions/.8546392b-1447-423b-838e-52e4b2e64de5: mrcrowl.easy-less
+[2022-07-28 14:15:47.364] [remoteagent] [info] Renamed to /home/mark_shkuro/.vscode-server/extensions/mrcrowl.easy-less-1.7.4
+[2022-07-28 14:15:47.366] [remoteagent] [info] Extracting completed. mrcrowl.easy-less
+[2022-07-28 14:15:47.366] [remoteagent] [info] Extension installed successfully: mrcrowl.easy-less
+[2022-07-28 14:16:46.583] [remoteagent] [info] [127.0.0.1][05b3a518][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-07-28 14:16:46.660] [remoteagent] [info] [127.0.0.1][63883c49][ExtensionHostConnection] <6513> Extension Host Process exited with code: 0, signal: null.

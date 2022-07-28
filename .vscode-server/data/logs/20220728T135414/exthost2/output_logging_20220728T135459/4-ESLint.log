@@ -1,0 +1,432 @@
+[Info  - 2:13:33 PM] ESLint server is starting
+[Info  - 2:13:34 PM] ESLint server running in node v16.13.2
+[Info  - 2:13:34 PM] ESLint server is running.
+[Info  - 2:13:35 PM] ESLint library loaded from: /usr/lib/node_modules/eslint/lib/api.js
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+Uncaught exception received.
+Error: No ESLint configuration found in /home/mark_shkuro/hexlet-hello-world.
+    at CascadingConfigArrayFactory._finalizeConfigArray (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3962:19)
+    at CascadingConfigArrayFactory.getConfigArrayForFile (/usr/lib/node_modules/eslint/node_modules/@eslint/eslintrc/dist/eslintrc.cjs:3753:21)
+    at CLIEngine.getConfigForFile (/usr/lib/node_modules/eslint/lib/cli-engine/cli-engine.js:969:14)
+    at ESLint.calculateConfigForFile (/usr/lib/node_modules/eslint/lib/eslint/eslint.js:664:26)
+    at /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21085
+    at Object.E [as withClass] (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:18310)
+    at D.then.g.validate (/home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:21057)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async /home/mark_shkuro/.vscode-server/extensions/dbaeumer.vscode-eslint-2.2.6/server/out/eslintServer.js:1:210071
+[Info  - 2:16:46 PM] ESLint server stopped.

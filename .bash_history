@@ -448,3 +448,857 @@ npm upgrade-interactive --latest
 cnpm run devreact
 npm run devreact
 nano .eslintrc.js
+pwd
+ls
+git clone https://github.com/Mark-Shkuro/frontend-project-lvl1.git
+ls
+cd frontend-project-lvl1
+ls
+ls .
+ls -a
+git commit
+git commit -m
+git commit 'start the project'
+git commit -m 'start the project'
+git push
+git pish
+git push
+git commit -m 'start the project'
+git push
+scjol04/9ZTgYwHo9FKIFbPgYd63tZm70/n3+mhLg9Q
+cd ..
+ls
+rm frondend-project-lvl1
+rm -r frontend-project-lvl1
+ls
+git push
+.git
+git
+clean
+clear
+ls
+cd frontend-project-lvl1
+git init
+git status
+git commit -m 'start the project'
+git push
+git status
+ls -la
+git add Test.md
+echo 'test' > test.md
+git add .
+git commit -m 'test1'
+git push
+git remote add Mark-Shkuro 'https://github.com/Mark-Shkuro/frontend-project-lvl1'
+git push Mark-Shkuro
+$ git push -u origin master
+git push --set-upstream Mark-Shkuro master
+cat ~/.ssh/id_rsa.pub
+git push
+git status
+git remote add origin git@github.com/Mark-Shkuro/frontend-project-lvl1
+git branch -M main
+git push -u origin main
+cd ..
+ls
+git remote add origin git@github.com/Mark-Shkuro/frontend-project-lvl1
+.git
+cd frontend-project-lvl1
+git remote add origin git@github.com/Mark-Shkuro/frontend-project-lvl1
+git remote rm origin
+git remote rm upstream
+git remote add origin git@github.com/Mark-Shkuro/frontend-project-lvl1
+git branch -M main
+git push -u origin main
+git push
+gut push --set-upstream origin main
+git push --set-upstream origin main
+git remote add origin git@github.com/Mark-Shkuro/frontend-project-lvl1
+
+git remote rm upstream
+git push -u origin main
+git remote rm origin
+git remote rm upstream
+git remote add origin git@github.com/Mark-Shkuro/frontend-project-lvl1
+git push -u origin master
+cd ..
+rmdir frontend-project-lvl1
+rmdir -r frontend-project-lvl1
+rm -r frontend-project-lvl1
+ls
+rm -r frontend-project-lvl1
+ls
+git status
+git remote add origin git@github.com:Mark-Shkuro/hexlet-git.git
+git branch -M main
+git init
+git remote add origin git@github.com:Mark-Shkuro/hexlet-git.git
+git branch -M main
+git push -u origin main
+git push
+git status
+git add .
+git commit -m 'test'
+git push
+ls
+git push
+git status
+git add .
+git commit -m 'fix troubles'
+git add .
+git status
+git add hexlet-js
+git status
+git commit -a
+git push
+cd hexlet-js
+git status
+git add .
+git commit -m 'fix it'
+git push
+git statys
+git status 
+cd ..
+git clone git@github.com:Mark-Shkuro/frontend-project-lvl1.git
+git status
+git add .
+cd frontend-project-lvl1
+git add .
+git status
+cd ..
+git status
+cd frontend-project-lvl1
+git commit -m 'start the project'
+git push
+cd ..
+git status
+git commit -m 'start the project'
+git push
+cd frontend-project-lvl1
+ls
+ls .a
+ls -a
+pwd
+node version
+sudo npm cache clean -f
+sudo n latest
+sudo apt install nodejs
+ls
+git status
+git push
+git init
+cd ..
+npm init
+cd fontend-project-lvl1
+ls
+cd frontend-project-lvl1
+mkdir bin
+ls
+cd bin
+ls
+tocu brain-games.js
+touch brain-games.js
+ls
+nano brain-games.js
+node brain-games.js
+node bin/brain-games.js
+cd ..
+node bin/brain-games.js
+cd ..
+ls
+cd frontend-project-lvl1
+ls
+ls -a
+cd .
+cd ..
+ls -a
+git status
+cd frontend-project-lvl1
+npm init
+ls
+ls -a
+node bin/brain-games.js
+git add .
+git status
+git commit -m 'step1 №1'
+git push
+node --version
+ls
+nano package.json
+node bin/brain-games.js
+exit
+node bin/brain-even.js
+exit
+node bin/brain-even.js
+stop
+exit
+node bin/brain-calc.js
+exit
+node bin/brain-calc.js
+exit
+bin/brain-gcd.js
+exit
+node bin/brain-gcd.js
+exit
+node bin/brain-gcd.js
+exit
+node bin/brain-progression.js
+exit
+make brain-prime
+exit
+ls
+cd frontend-project-lvl1
+ls
+cd src
+ls
+cat cli.js
+cp cli.js 
+touch index.js
+ls
+nano index.js
+ls
+touch random.js
+nano random.js
+mkdir games
+cd games
+even.js
+touch even.js
+nano eve.js
+nano even.js
+cd ..
+ls
+cd ..
+cd bin
+ls
+nano brain-even.js
+node brin-even.js
+node brain-even.js
+cd ..
+ls
+cd src
+ls
+nano random.js
+ls
+nano games/even.js
+nano random.js
+nano games/even.js
+nano random.js
+nano games/even.js
+cd ..
+ls bin
+node brain-even.js
+ды
+ls
+cd src
+ls
+nano index.js
+ls
+cd games
+ls
+nano even.js
+cd ..
+ls
+cd ..
+cd bin
+ls
+node brain-even.js
+cd //
+cd ..
+ls
+cd home
+ls
+cd mark_shkuro
+ls
+cd frontend-project-lvl1
+ls
+cd src
+ls
+nano random.js
+nano games/even.js
+cd ..
+node bin/brain-even.js
+nano src/random.js
+node bin/brain-even.js
+nano src/games/even.js
+node bin/brain-even.js
+nano src/games/even.js
+node bin/brain-even.js
+nano src/index.js
+node bin/brain-even.js
+nano src/index.js
+node bin/brain-even.js
+nano src/index.js
+nano src/games/even.js
+node bin/brain-even.js
+nano src/games/even.js
+node bin/brain-even.js
+nano src/games/even.js
+node bin/brain-even.js
+nano src/index.js
+node bin/brain-even.js
+git add .
+git commit -m 'step6 №2'
+git push
+ls
+cd src
+ls
+cd games
+ls
+touch calc.js
+nano calc.js
+cd .. ..
+cd ..
+nano bin/brain-even.js
+node bin/brain-even.js
+cd src
+nano games/calc.js
+cd ..
+cd bin
+ls
+nano brain-calc.js
+node brain-calc.js
+cd ..
+nano src/games/calc.js
+node bin/brain-calc.js
+nano src/games/calc.js
+node bin/brain-calc.js
+nano src/games/calc.js
+node bin/brain-calc.js
+nano src/games/calc.js
+nano src/index.js
+nano src/games/calc.js
+node bin/brain-calc.js
+nano src/games/calc.js
+node bin/brain-calc.js
+nano src/games/calc.js
+node bin/brain-calc.js
+nano src/index.js
+nano src/games/calc.js
+clear
+make lint
+nano src/games/calc.js
+node bin/brain-calc.js
+make lint
+nano src/games/calc.js
+make lint
+nano src/games/calc.js
+make lint
+nano src/games/calc.js
+make lint
+nano src/games/calc.js
+make lint
+ls
+nano Makefile
+make lint
+node bin/brain-calc.js
+nano src/games/even.js
+nano src/index.js
+make lint
+nano src/index.js
+make lint
+nano src/index.js
+make lint
+nano src/index.js
+make lint
+nano src/index.js
+make lint
+nano src/random.js
+make lint
+git add .
+git commit -m 'step6 №3'
+git push
+nano README.md
+git add .
+ls
+cd src
+ls
+cd games
+ls
+touch gcd.js
+nano gcd.js
+ls
+cd ..
+nano package.json
+ls
+cd bin
+ls
+touch brain-gcd.js
+nano brain-gcd.js
+node brain-gcd.js
+nano src/games/gcd.js
+cd ..
+nano src/games/gcd.js
+node bin-brain-gcd.js
+node bin/brain-gcd.js
+nano bin/brain-gcd.js
+nano src/games/gcd.js
+node bin/brain-gcd.js
+nano src/index.js
+node bin/brain-gcd.js
+clear
+asciinema rec
+clear
+asciinema rec
+clear
+asciinema rec
+make lint
+nano bin/brain-gcd.js
+nano src/games/gcd.js
+make lint
+nano src/games/gcd.js
+make lint
+node bin/brain-gcd.js
+nano README.md
+git add .
+git commit -m 'step7 №1'
+git push
+ls
+cd bin
+ls
+touch brain-progression.js
+nano brain-progression.js
+cd ..
+nano package.json
+cd src
+ls
+cd games
+touch progression.js
+nano progression.js
+cd ..
+node bin/brain-progression.js
+nano src/games/progression.js
+node bin/brain-progression.js
+nano src/games/progression.js
+nano bin/brain-progresson.js
+cd bin
+ls
+nano brain-progression.js
+nano src/games/progression.js
+cd ..
+clar
+clear
+nano src/games/progression.js
+node bin/brain-progression.js
+clear
+nano src/games/progression.js
+node bin/brain-progression.js
+nano src/games/progression.js
+node bin/brain-progression.js
+nano src/games/progression.js
+node bin/brain-progression.js
+nano src/games/progression.js
+node bin/brain-progression.js
+clear
+asciinema rec
+clear
+asciinema rec
+nano README.md
+make lint
+nano src/games/progression.js
+make lint
+nano src/games/progression.js
+make lint
+node bin/brain-progression.js
+clear
+git add .
+git commit -m 'step8 №1'
+git push
+clear
+node bin/brain-progression.js
+clear
+cd bin
+touch brain-prime.js
+nano brain-prime.js
+cd ..
+ls
+nano makefile
+nano Makefile
+cd bin
+ls
+cd ..
+nano package.json
+ls 
+cd src
+cd games
+touch prime.js
+nano prime.js
+cd ..
+make brain-prime
+nano src/games/prime.js
+make brain-prime
+nano src/games/prime.js
+make brain-prime
+nano src/games/prime.js
+make brain-prime
+nano src/games/prime.js
+make brain-prime
+nano src/games/prime.js
+clear
+nano src/games/prime.js
+make brain-prime
+nano src/games/prime.js
+make brain-prime
+nano src/games/prime.js
+make brain-prime
+nano src/games/prime.js
+make brain-prime
+clear
+make lint
+nano src/games/prime.js
+make lint
+nano src/games/prime.js
+make lint
+make brain-prime
+nano src/games/prime.js
+make brain-prime
+make lint
+nano src/games/prime.js
+make lint
+nano src/games/prime.js
+make lint
+nano src/games/prime.js
+make lint
+nano src/games/prime.js
+make lint
+nano src/games/prime.js
+make brain-prime
+clear
+asciinema rec
+clear
+nano README.md
+git add .
+git commit -m 'step9'
+git push
+nano Readme.md
+nano README.md
+git add .
+git commit -m 'change README'
+git push
+nano README.md
+git add .
+nano README.md
+git commit -m 'change README'
+git push
+nano README.md
+git add .
+git commit -m 'change README'
+git push
+make lint
+nano README.md
+git add .
+git commit -m 'change README'
+git push
+nano src/games/prime.js
+make brain-prime
+nano src/games/prime.js
+make brain-prime
+make lint
+git add .
+git commit -m 'fix prime'
+git push
+ды
+ls
+cd frontend-project-lvl1
+ls
+ls -a
+nano .gitignore
+ls
+cd bin
+ls
+ls -a
+rm .brain-progression.js.swp
+ls -a
+ls -a ..
+cd bin
+ls
+clear
+св юю
+cd ..
+find ./ -name *.swp -exec rm {} +
+find . -name "*.swp" -delete
+git status
+cd bin
+ls
+nano brain-games
+nano brain-games.js
+make brain-games
+cd ..
+cd frontend-project-lvl1
+make brain-games
+cd src
+nano cli.js
+make brain-games
+nano cli.js
+make brain-games
+cd 
+cd frontend-project-lvl1
+make brain-games
+nano src/index.js
+make brain-even
+nano src/index.js
+make brain-even
+make lint
+nano src/index.js
+make lint
+nano src/index.js
+make lint
+make brain-even
+nano src/index.js
+make brain-even
+make lint
+nano src/index.js
+make lint
+nano src/index.js
+nano src/random.js
+nano src/games/progression.js
+make brain-progression
+nano src/games/сфдс.js
+nano src/games/calc.js
+make brain-calc
+nano src/games/calc.js
+make brain-calc
+nano src/games/gcd.js
+make brain-gcd
+nano src/games/gcd.js
+make brain-gcd
+nano src/games/prime.js
+make brain-orime
+make brain-prime
+nano src/games/prime.js
+nano MAKEFILE.md
+ls
+nano Makefile
+make brain-prime
+node src/games/prime.js
+make brain-prime
+nano src/games/prime.js
+make brain-prime
+nano src/games/prime.js
+make brain-prime
+nano src/games/prime.js
+make lint
+nano src/games/prime.js
+make brain-prime
+nano src/games/prime.js
+make brain-prime
+nano src/games/prime.js
+make brain-prime
+nano src/games/prime.js
+nano src/games/calc.js
+make brain-calc
+nano src/games/calc.js
+nano src/games/prime.js
+make brain-prime
+nano src/games/prime.js
+make brain-prime
+nano src/games/prime.js
+make brain-prime
+nano src/games/prime.js
+make brain-prime
+nano src/games/prime.js
+make brain-prime
+nano src/games/prime.js
+make brain-prime
+make lint
+nano src/games/progression.js
+make brain-progression
+nano src/games/gcd.js
+make brain-gcd
+nano src/games/calc.js
+make brain-calc
+nano src/games/even.js
+make brain-even
+nano src/games/gcd.js
+nano src/games/prime.js
+make brain-prime
+nano src/games/progression.js
+make brain-progression
+make lint
+nano src/games/prime.js
+make lint
+nano src/games/prime.js
+make lint
+make brain-prime
+nano src/games/prime.js
+make brain-prime
+make lint
+make brain-prime
+a
+make brain-prime
+nano src/games/prime.js
+make lint
+make brain-prime
+mark
+nano src/games/prime.js
+make lint
+nano src/games/prime.js
+make lint
+nano src/games/prime.js
+make lint
+nano src/games/prime.js
+make lint
+
+make lint
+nano src/games/prime.js
+make lint
+nano src/games/prime.js
+make lint
+make brain-prime
+nano src/games/prime.js
+make brain-prime
+make lint
+nano src/games/prime.js
+make lint
+make brain-prime
+nano src/games/prime.js
+make brain-prime
+make lint
+nano src/games/prime.js
+make lint
+nano src/games/prime.js
+make lint
+
+nano src/games/prime.js
+make lint
+nano src/games/prime.js
+make lint
+nano src/games/prime.js
+make lint
+nano src/games/prime.js
+make lint
+make brain-prime
+make lint
+make brain-prime
+nano src/games/prime.js
+make lint
+nano src/games/prime.js
+make lint
+nano src/games/prime.js
+make lint
+make brain-prime
+nano src/games/prime.js
+make lint
+make brain-prime
+make lint
+a
+nano src/games/prime.js
+make lint
+make brain-prime
+nano src/games/prime.js
+make brain-prime
+nano src/games/prime.js
+make brain-prime
+nano src/games/prime.js
+make lint
+nano src/games/prime.js
+make brain-prime
+nano src/games/prime.js
+make lint
+make brain-prime
+nano src/games/prime.js
+make lint
+nano src/games/prime.js
+make lint
+make brain-prime
+mark
+make brain-prime
+nano src/games/prime.js
+make lint
+nano src/games/progression.js
+make lint
+nano src/index.js
+make lint
+git add .
+git commit -m 'fix after checking'
+git push
+cd ..
+cd frontend-project-lvl1
+ls
+nano src/cli.js
+make lint
+make brain-games
+git add .
+git commit -m
+git commit -m 'a little mistake'
+git push
+make brain-prime
+nano src/games/prime.js
+git add .
+git commit -m 'a little mistake2'
+git push
+make brain-prime
+nano src/games/prime.js
+git add .
+git commit -m 'a little mistake3'
+git push
+make lint
+nano src/cli.js
+make lint
+nano src/index.js
+make lint
+nano src/index.js
+make lint
+make brain-calc
+nano src/index.js
+make brain-calc
+make lint
+nano src/games/calc.js
+make lint
+nano src/games/calc.js
+make lint
+nano src/games/calc.js
+make brain-calc
+nano src/games/prime.js
+make brain-prime
+nano src/games/prime.js
+make lint
+make brain-prime
+clear
+nano src/games/progression.js
+make brain-calc
+make brain-progression
+nano src/games/progression.js
+make brain-progression
+make lint
+nano src/games/progression.js
+make lint
+git add .
+git commit -m 'fix mistakes 2'
+git push
+nano src/games/calc.js
+git add .
+git commit -m 'fix mistakes 2.1'
+git add .
+git push
+ls
+cd frontend-project-lvl1
+nano src/games/prime.js
+make brain-prime
+nano src/games/progression.js
+make lint
+make brain-progression
+git add .
+git commit -m 'fix mistakes 3;
+
+
+git push
+git status
+git add .
+git commit -m 'fix mistakes 3'
+git push
+ls
+pwd
+ls
+sudo apt-get update
+sudo apt-get install wget ca-certificates
+ls
+cd hexlet-hello-world
+ls
+nano index.html
+git commit -m
+git add .
+got commit -m 'use vsCode'
+git commit -m 'use vsCode'
+git push
+cd ..
+ls

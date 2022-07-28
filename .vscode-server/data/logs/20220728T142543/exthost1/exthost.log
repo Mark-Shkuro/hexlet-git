@@ -1,0 +1,17 @@
+[2022-07-28 14:25:45.390] [exthost] [info] Extension host with pid 7309 started
+[2022-07-28 14:25:45.460] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-28 14:25:45.469] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-07-28 14:25:45.475] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-28 14:25:45.493] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify, startup: true, activationEvent: '*'
+[2022-07-28 14:25:45.562] [exthost] [info] ExtensionService#_doActivateExtension ionutvmi.path-autocomplete, startup: true, activationEvent: '*'
+[2022-07-28 14:25:45.573] [exthost] [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: true, activationEvent: '*'
+[2022-07-28 14:25:45.636] [exthost] [info] ExtensionService#_doActivateExtension slevesque.vscode-multiclip, startup: true, activationEvent: '*'
+[2022-07-28 14:25:45.705] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-28 14:25:45.727] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-28 14:25:45.733] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-28 14:25:45.782] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-28 14:25:46.008] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-28 14:25:46.032] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-28 14:25:46.205] [exthost] [info] Eager extensions activated
+[2022-07-28 14:25:56.624] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-28 14:25:56.645] [exthost] [info] Extension host with pid 7309 exiting with code 0
